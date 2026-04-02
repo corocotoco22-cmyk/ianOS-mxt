@@ -1,0 +1,8 @@
+{
+  "name": "Ian os smartphone📱/tablet",
+  "description": "sisten",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
